@@ -25,5 +25,5 @@ const anotherId=Symbol('123');
 
 
 //--------------------------x-----------------------------------------------
-// memory in js
+// memory in js .
 // stack(primitive data types -> here we get copy of variables),heap(nonprimitive datatype -> here we get the refrence for original value exact address of variable)

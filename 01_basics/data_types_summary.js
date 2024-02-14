@@ -22,3 +22,8 @@ const anotherId=Symbol('123');
  // data type of all non-primitive if checked gives object
  console.log(typeof(heroes)); // typeof function used to know data type.
 // read documentation => ecmascript
+
+
+//--------------------------x-----------------------------------------------
+// memory in js
+// stack(primitive data types -> here we get copy of variables),heap(nonprimitive datatype -> here we get the refrence for original value exact address of variable)
